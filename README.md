@@ -8,6 +8,12 @@ A luxury hotel booking website built around the [ThreeUI](https://threeui.com/la
 
 ![Booking flow](screenshots/booking.png)
 
+## Live Demo
+
+🚀 **[View Live Demo](https://aldrinpm.github.io/luxury-hotels/)**
+
+The live demo is deployed to GitHub Pages automatically on every push to `master` via the [**Deploy Live Preview to GitHub Pages**](.github/workflows/pages.yml) workflow. You can also trigger a deployment manually from the **Actions** tab → "Deploy Live Preview to GitHub Pages" → **Run workflow**.
+
 ## Features
 
 - **Immersive 3D landing** — the original Kibori scene (three.js + cannon-es physics, scroll-driven camera through eight spaces of a Kyoto woodshop turned hotel). All assets and the three.js runtime are vendored locally — no CDN at runtime.
