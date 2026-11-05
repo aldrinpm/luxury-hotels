@@ -1,0 +1,8 @@
+node_modules/
+build/
+server.js
+screenshot.js
+*.log
+.env
+.DS_Thumbs
+Thumbs.db

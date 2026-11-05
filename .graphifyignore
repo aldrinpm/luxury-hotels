@@ -1,0 +1,13 @@
+# Third-party Graphify source clone — not part of this project's code
+graphify/
+
+# Installed dependencies and generated output
+node_modules/
+build/
+graphify-out/
+
+# Vendored minified library (loaded by the landing page, not authored here)
+public/landing-pages/vendor/
+
+# Source snapshot kept for reference; the working copy lives in public/
+kibori-bundle.json

@@ -1,0 +1,164 @@
+{
+  "package.json": {
+    "mtime": 1793852141.6981294,
+    "seen": 1793865517.1922355,
+    "ast_hash": "628524c8d6a869a7c3ea430f8ee384b9",
+    "semantic_hash": ""
+  },
+  "src/App.test.js": {
+    "mtime": 1793863451.0682082,
+    "seen": 1793865517.1922424,
+    "ast_hash": "e03291a30e7e7ecea946ee13d78d4731",
+    "semantic_hash": ""
+  },
+  "src/App.tsx": {
+    "mtime": 1793863165.800258,
+    "seen": 1793865517.1922457,
+    "ast_hash": "5571959ab377d02bb2d6e3e91143ff08",
+    "semantic_hash": ""
+  },
+  "src/components/Amenities.tsx": {
+    "mtime": 1793863451.0682082,
+    "seen": 1793865517.1922479,
+    "ast_hash": "bd22a3d5ac764965c4c9ed6febbc9c33",
+    "semantic_hash": ""
+  },
+  "src/components/BookingSection.tsx": {
+    "mtime": 1793863527.8860178,
+    "seen": 1793865517.1922495,
+    "ast_hash": "1c71687ed4fc7128518e7bda7629c643",
+    "semantic_hash": ""
+  },
+  "src/components/ContactSection.tsx": {
+    "mtime": 1793863043.6107788,
+    "seen": 1793865517.192251,
+    "ast_hash": "889225d7e0195871b961ad4b412bd72b",
+    "semantic_hash": ""
+  },
+  "src/components/RoomCard.tsx": {
+    "mtime": 1793862900.530494,
+    "seen": 1793865517.1922524,
+    "ast_hash": "7c023c81551bb21f131f60d0e0611156",
+    "semantic_hash": ""
+  },
+  "src/components/RoomsSection.tsx": {
+    "mtime": 1793863527.8860178,
+    "seen": 1793865517.1922536,
+    "ast_hash": "848db209320880f2618f127ae1f22cef",
+    "semantic_hash": ""
+  },
+  "src/components/SearchBar.tsx": {
+    "mtime": 1793862900.530494,
+    "seen": 1793865517.192255,
+    "ast_hash": "a2a8e8f447d49d1be5d14b88888878f0",
+    "semantic_hash": ""
+  },
+  "src/components/SiteFooter.tsx": {
+    "mtime": 1793863043.6107788,
+    "seen": 1793865517.1922562,
+    "ast_hash": "07081492152513c97798bafab1ba2d21",
+    "semantic_hash": ""
+  },
+  "src/components/SiteHeader.tsx": {
+    "mtime": 1793862900.530494,
+    "seen": 1793865517.1922576,
+    "ast_hash": "152567546e0d853c1160de3a9028be25",
+    "semantic_hash": ""
+  },
+  "src/data/rooms.ts": {
+    "mtime": 1793862798.860983,
+    "seen": 1793865517.192259,
+    "ast_hash": "d27d361f4347f37617d110c642a867f9",
+    "semantic_hash": ""
+  },
+  "src/index.tsx": {
+    "mtime": 1793852178.3116522,
+    "seen": 1793865517.1922603,
+    "ast_hash": "8e88b6d244785bef6f35dda4659094e3",
+    "semantic_hash": ""
+  },
+  "src/lib/bookingApi.ts": {
+    "mtime": 1793862798.862159,
+    "seen": 1793865517.1922617,
+    "ast_hash": "0877929ab0b99326113f29da529019ab",
+    "semantic_hash": ""
+  },
+  "src/lib/dates.ts": {
+    "mtime": 1793862798.860983,
+    "seen": 1793865517.192263,
+    "ast_hash": "120b99cc069d209489d9cd6701111d0a",
+    "semantic_hash": ""
+  },
+  "src/shaders/kibori-landing-page/KiboriLandingPage.tsx": {
+    "mtime": 1793861587.801188,
+    "seen": 1793865517.192264,
+    "ast_hash": "86ee5b4c9108e2fdd21b73a866414593",
+    "semantic_hash": ""
+  },
+  "tsconfig.json": {
+    "mtime": 1793851995.8931186,
+    "seen": 1793865517.1922655,
+    "ast_hash": "349b7a87f445303794204f6b0acd1b62",
+    "semantic_hash": ""
+  },
+  "IMPLEMENTATION_REPORT.md": {
+    "mtime": 1793849392.1523588,
+    "seen": 1793865517.1922665,
+    "ast_hash": "0948619567e87a320d66efc46ad3b42a",
+    "semantic_hash": ""
+  },
+  "docs-obsidian/Project Overview.md": {
+    "mtime": 1793849362.1300144,
+    "seen": 1793865517.1922684,
+    "ast_hash": "031fea3d17a77a5f3eb95f5c80513b21",
+    "semantic_hash": ""
+  },
+  "public/index.html": {
+    "mtime": 1793863345.8779616,
+    "seen": 1793865517.1922696,
+    "ast_hash": "21e60ef542944ecd91cf0ba467ec039f",
+    "semantic_hash": ""
+  },
+  "public/landing-pages/kibori.html": {
+    "mtime": 1793862015.7629833,
+    "seen": 1793865517.1922708,
+    "ast_hash": "5485dde81f3fc63380196c0eed5bb3bd",
+    "semantic_hash": ""
+  },
+  "public/landing-pages/kibori-assets/59a3146ba987dac112122ed92595ebea408547ce40972c7d05985e589bae878d.svg": {
+    "mtime": 1793849231.5359159,
+    "seen": 1793865517.1922722,
+    "ast_hash": "1245a27d0c90754dd6ac2ba34bfb4067",
+    "semantic_hash": ""
+  },
+  "public/landing-pages/kibori-assets/9632d913de9cae7ff0868e7a483fbd4cd919a539c840e5f8541a74935fb5136c.webp": {
+    "mtime": 1793849236.4778843,
+    "seen": 1793865517.1922739,
+    "ast_hash": "9eeb0ac4261ff5a642846d62e6471141",
+    "semantic_hash": ""
+  },
+  "public/landing-pages/kibori-assets/9b391d7968fc2a17e563ba2e58507299d47f4c890b9c4de686a3e8fe8b2dfd84.svg": {
+    "mtime": 1793849231.108254,
+    "seen": 1793865517.1922753,
+    "ast_hash": "d655db2fa46076e2796a3323f6e78c1e",
+    "semantic_hash": ""
+  },
+  "public/landing-pages/kibori-assets/ca98f43d601fb0f2f63da9ce5a0bf62a9a41273ea806a3f047783620c8b33ceb.svg": {
+    "mtime": 1793849231.9586773,
+    "seen": 1793865517.1922765,
+    "ast_hash": "505c390b0a8e6bbc31a65c4c51ce3ed9",
+    "semantic_hash": ""
+  },
+  "public/landing-pages/kibori-assets/dc88d8a5843d37abb762101b03b054bb92e81629b258b6749062173836f3e8b5.webp": {
+    "mtime": 1793849237.1025333,
+    "seen": 1793865517.192278,
+    "ast_hash": "c8b9086f970d1b87e622aac4e680509b",
+    "semantic_hash": ""
+  },
+  "package-lock.json": {
+    "mtime": 1793853438.036486,
+    "seen": 1793865517.1922793,
+    "ast_hash": "d99b3d021a025e178de446e53f1bb7b1",
+    "semantic_hash": ""
+  }
+}
