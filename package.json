@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Premium Hotel Booking Website with ThreeUI Kibori Landing Page",
   "private": true,
-  "homepage": "https://aldrinpm.github.io/luxury-hotels",
+  "homepage": ".",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

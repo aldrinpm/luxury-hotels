@@ -183,7 +183,7 @@ npm run build     # production build into build/
 npm test          # smoke test
 ```
 
-Serve `build/` from the site root so `/landing-pages/...` resolves (any static server works).
+Asset paths are relative (`homepage: "."`), so the build works at the site root or any subpath — including GitHub Pages project sites.
 
 ---
 

@@ -45,7 +45,7 @@ index.tsx
 ## Build & deployment
 
 - `react-scripts build` → `build/`; `public/` (including `landing-pages/`) is copied verbatim.
-- Must be served from the site root so `/landing-pages/...` resolves.
+- Uses relative asset paths (`homepage: "."` in package.json, relative URLs inside the landing HTML and iframe), so it works at the site root or any subpath — including GitHub Pages project sites.
 - No environment variables or external services required.
 
 ## Verification architecture

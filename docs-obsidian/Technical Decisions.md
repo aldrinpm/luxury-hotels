@@ -30,6 +30,10 @@
 **Decision**: `sectionRef` props instead of `forwardRef`.
 **Why**: Simpler and explicit; React 19 type packages require `RefObject<HTMLElement | null>` — documented in [[Dependencies]].
 
+## Relative asset paths for subpath deployments
+**Decision**: `"homepage": "."` in package.json, iframe `src="landing-pages/kibori.html"`, and relative `kibori-assets/…` / `vendor/…` URLs inside the landing HTML.
+**Why**: The site deploys to a GitHub Pages project subpath (`/luxury-hotels/`); root-absolute URLs would 404 there, and an absolute `homepage` would break serving `build/` locally. Relative paths work identically in dev, at the root and under any subpath.
+
 ## Graphify graph scoped by `.graphifyignore`
 **Decision**: Exclude the `graphify/` source clone, `node_modules/`, `build/`, vendored minified three.js and the bundle snapshot from the knowledge graph.
 **Why**: The first build produced 26,546 nodes dominated by the tool's own source; scoping yields a focused 122-node graph of this project. `graphify update .` is AST-only and free to re-run.

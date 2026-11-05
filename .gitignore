@@ -10,6 +10,10 @@
 # Third-party Graphify source clone (local tooling; graph output is kept)
 /graphify
 
+# Graphify generated caches and build state
+graphify-out/cache/
+graphify-out/.graphify_*
+
 # OS / editor / logs
 .DS_Store
 Thumbs.db
