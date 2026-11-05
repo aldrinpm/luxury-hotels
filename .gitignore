@@ -1,8 +1,20 @@
-node_modules/
-build/
-server.js
-screenshot.js
-*.log
-.env
-.DS_Thumbs
+# Dependencies
+/node_modules
+
+# Production build
+/build
+
+# Test coverage
+/coverage
+
+# Third-party Graphify source clone (local tooling; graph output is kept)
+/graphify
+
+# OS / editor / logs
+.DS_Store
 Thumbs.db
+*.log
+
+# Environment
+.env.local
+.env.*.local
